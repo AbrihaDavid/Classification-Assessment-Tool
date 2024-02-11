@@ -1,6 +1,7 @@
 # Welcome to our Python tool, developed to enhance the interpretability and robustness of predictive models.
 
 [Link to the Streamlit application](https://classification-assessment-tool.streamlit.app/)
+[Link to the executable file](https://zenodo.org/records/10646420)
 
 ## Key Features
 

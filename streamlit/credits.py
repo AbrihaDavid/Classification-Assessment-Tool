@@ -25,6 +25,6 @@ st.text(
     "along with this program.  If not, see https://www.gnu.org/licenses/."
 )
 
-github_link = st.markdown("[GitHub Repository](https://github.com/AbrihaDavid)")
+github_link = st.markdown("[GitHub Repository](https://github.com/AbrihaDavid/Classification-Assessment-Tool)")
 article_link = st.markdown("[Article](https://google.com)")
 

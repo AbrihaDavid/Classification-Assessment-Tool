@@ -26,5 +26,5 @@ st.text(
 )
 
 github_link = st.markdown("[GitHub Repository](https://github.com/AbrihaDavid/Classification-Assessment-Tool)")
-article_link = st.markdown("[Article](https://google.com)")
+article_link = st.markdown("[Article](https://www.sciencedirect.com/science/article/pii/S1568494624002424?via%3Dihub)")
 

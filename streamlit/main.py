@@ -40,5 +40,5 @@ st.markdown("## Usage")
 
 st.write("To get started, simply select the desired function based on your analytical goals. The tool allows you to customize parameters such as fraction, iteration, and seed, ensuring flexibility in your analyses. Whether you are focusing on accuracy metrics, model stability, or ROC curve analysis, our tool is here to streamline your evaluation process.")
 
-st.write("For additional information, details on the tool, and access to sample data, please refer to our [GitHub repository](https://github.com/AbrihaDavid) and explore further insights in our article: [Under review](https://google.com).")
+st.write("For additional information, details on the tool, and access to sample data, please refer to our [GitHub repository](https://github.com/AbrihaDavid) and explore further insights in our article: [Link](https://www.sciencedirect.com/science/article/pii/S1568494624002424?via%3Dihub).")
 

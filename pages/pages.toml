@@ -1,20 +1,20 @@
 [[pages]]
 name = "Introduction"
-path = "streamlit/main.py"
+path = "../streamlit/main.py"
 
 [[pages]]
 name = "Extract Accuracy with reps"
-path = "streamlit/extractAccuracyRep.py"
+path = "../streamlit/extractAccuracyRep.py"
 
 [[pages]]
 name = "Extract model stability"
-path = "streamlit/modelStability.py"
+path = "../streamlit/modelStability.py"
 
 [[pages]]
 name = "Extract ROC"
-path = "streamlit/extractROC.py"
+path = "../streamlit/extractROC.py"
 
 
 [[pages]]
 name = "Credits"
-path = "streamlit/credits.py"
+path = "../streamlit/credits.py"

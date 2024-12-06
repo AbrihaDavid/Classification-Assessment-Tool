@@ -5,8 +5,11 @@
 
 
 import streamlit as st
-from st_pages import Page, show_pages_from_config, add_page_title
-show_pages_from_config()
+from st_pages import Page, get_nav_from_toml, add_page_title
+nav = get_nav_from_toml()
+pg = st.navigation(nav)
+pg.run()
+
 """
 show_pages(
     [

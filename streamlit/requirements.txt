@@ -4,4 +4,4 @@ numpy
 scikit-learn
 matplotlib
 seaborn
-st_pages
+st-pages

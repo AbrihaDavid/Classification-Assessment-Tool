@@ -23,7 +23,7 @@ show_pages(
 )
 """
 
-add_page_title(layout="wide")
+st.help(add_page_title)
 st.write("Welcome to our Python tool, developed to enhance the interpretability and robustness of predictive models. This versatile tool has been designed with a focus on providing a comprehensive evaluation of model performance.")
 
 

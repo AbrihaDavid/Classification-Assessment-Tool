@@ -6,7 +6,7 @@
 
 import streamlit as st
 from st_pages import Page, get_nav_from_toml, add_page_title
-nav = get_nav_from_toml("streamlit/pages.toml")
+nav = get_nav_from_toml(".streamlit/pages.toml")
 pg = st.navigation(nav)
 pg.run()
 

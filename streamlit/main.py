@@ -5,8 +5,9 @@
 
 
 import streamlit as st
-from st_pages import Page, show_pages, add_page_title
-
+from st_pages import Page, show_pages_from_config, add_page_title
+show_pages_from_config()
+"""
 show_pages(
     [
         Page("streamlit/main.py", "Introduction"),
@@ -17,6 +18,7 @@ show_pages(
         Page("streamlit/credits.py","Credits")
     ]  
 )
+"""
 
 add_page_title(layout="wide")
 st.write("Welcome to our Python tool, developed to enhance the interpretability and robustness of predictive models. This versatile tool has been designed with a focus on providing a comprehensive evaluation of model performance.")
